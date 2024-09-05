@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "062131f7-0826-49e8-bb4d-329a8e1da35d",
-		"name": "MLEO-Weaviate",
+		"name": "Weaviate",
 		"description": "# Introduction\n\nWeaviate is an open source, AI-native vector database that helps developers create intuitive and reliable AI-powered applications.\n\n### Base Path\n\nThe base path for the Weaviate server is structured as `[YOUR-WEAVIATE-HOST]:[PORT]/v1`. As an example, if you wish to access the `schema` endpoint on a local instance, you would navigate to `http://localhost:9080/v1/schema`. Ensure you replace `[YOUR-WEAVIATE-HOST]` and `[PORT]` with your actual server host and port number respectively.\n\n### Questions?\n\nIf you have any comments or questions, please feel free to reach out to us at the community forum [https://forum.weaviate.io/](https://forum.weaviate.io/).\n\n### Issues?\n\nIf you find a bug or want to file a feature request, please open an issue on our GitHub repository for [Weaviate](https://github.com/weaviate/weaviate).\n\n### Want more documentation?\n\nFor a quickstart, code examples, concepts and more, please visit our [documentation page](https://weaviate.io/developers/weaviate).\n\nContact Support:  \nName: Weaviate",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "21155610"
@@ -15895,7 +15895,7 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": "http://localhost:8080/v1"
+			"value": "http://localhost:9080/v1"
 		}
 	]
 }
