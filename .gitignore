@@ -1,0 +1,10 @@
+# Weaviate node persistence (created by docker compose)
+data-node-1/
+data-node-2/
+data-node-3/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
